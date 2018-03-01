@@ -6,4 +6,9 @@ this model can identify different monkey species from kaggle dataset pictures
 
 frozen layers' outputs are fixed, so this program imply a faster way to train this model.
 
-PS. this just a prototype. accuracy can improve with more computation.
+data:https://www.kaggle.com/slothkong/10-monkey-species/data
+pretrained checkpoint: http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
+
+PS: this just a prototype. accuracy can improve with more computation.
+
+this model is inspired by Aurélien Geron@https://github.com/ageron
